@@ -82,5 +82,32 @@ h1{
     border-color: #0d6efd;
 }
 
+.errcon{
+    width: 48%;
+   display: flex;
+   justify-content: center;
+}
+.error{
+    font-size: 1vw;
+    color: red;
+}
 
+.con{
+    display: none;
+}
 
+.bad{
+    display: none;
+}
+
+@media (max-width: 600px) {
+      .container{
+        width:100%;
+      }
+      h1{
+        font-size: 7vw;
+      }
+      .error{
+           font-size: 3vw;
+      }
+    }
