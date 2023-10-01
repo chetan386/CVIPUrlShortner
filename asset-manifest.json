@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/url_shortener/static/css/main.8625c257.css",
-    "main.js": "/url_shortener/static/js/main.80ba2a52.js",
-    "index.html": "/url_shortener/index.html",
-    "main.8625c257.css.map": "/url_shortener/static/css/main.8625c257.css.map",
-    "main.80ba2a52.js.map": "/url_shortener/static/js/main.80ba2a52.js.map"
+    "main.css": "/CVIPUrlShortner/static/css/main.b0ccdd2e.css",
+    "main.js": "/CVIPUrlShortner/static/js/main.80ba2a52.js",
+    "index.html": "/CVIPUrlShortner/index.html",
+    "main.b0ccdd2e.css.map": "/CVIPUrlShortner/static/css/main.b0ccdd2e.css.map",
+    "main.80ba2a52.js.map": "/CVIPUrlShortner/static/js/main.80ba2a52.js.map"
   },
   "entrypoints": [
-    "static/css/main.8625c257.css",
+    "static/css/main.b0ccdd2e.css",
     "static/js/main.80ba2a52.js"
   ]
 }
